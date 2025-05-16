@@ -4,4 +4,4 @@ Daily-Habit-CheackList... This project is used to track the daily avtivity of th
 
 technologies used :- HTML, CSS and Javascript
 
-For Live :- https://zippy-sunflower-481920.netlify.app/
+For Live preview:- https://zippy-sunflower-481920.netlify.app/
